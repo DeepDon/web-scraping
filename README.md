@@ -3,9 +3,7 @@ Natural Language Processing
 
 This repository provides an introductory guide to **Natural Language Processing (NLP)** using examples and foundational concepts. It is designed for beginners in AI and machine learning who want to understand how computers process human language.
 
-📄 **Included Document:**
-
-- `Natural Language Processing.pdf` – Covers NLP concepts, techniques, and tools like NLTK.
+Covers NLP concepts, techniques, and tools like NLTK.
 
 ---
 
